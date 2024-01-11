@@ -2,4 +2,4 @@
 Наброски тг бота для записи детей на обед их родителями. Вроде даже рабочая версия.
 
 # а что в нем?
-python [aiogram, tortoise, sqlite3]
+python [aiogram, peewee, sqlite3]
